@@ -3,20 +3,20 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://hoodsolana.com/wp-content/uploads/2021/08/Kabob-Regular.ttf') format('truetype');
+	src: url('/wp-content//uploads/2021/08/Kabob-Regular.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Kabob';
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('https://hoodsolana.com/wp-content/uploads/2021/08/Kabob-Bold.ttf') format('truetype');
+	src: url('/wp-content//uploads/2021/08/Kabob-Bold.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Kabob';
 	font-style: normal;
 	font-weight: 900;
 	font-display: auto;
-	src: url('https://hoodsolana.com/wp-content/uploads/2021/08/KabobExtrabold-Regular.ttf') format('truetype');
+	src: url('/wp-content//uploads/2021/08/KabobExtrabold-Regular.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
